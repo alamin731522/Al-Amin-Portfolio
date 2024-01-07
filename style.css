@@ -3,4 +3,16 @@ h1 {
   font-size: 50px;
   font-weight: bold;
   text-transform: capitalize;
+  text-align: center;
+}
+
+p {
+  background-color: coral;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 26px;
+  color: white;
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
 }
