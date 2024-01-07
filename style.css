@@ -16,3 +16,23 @@ p {
   width: 800px;
   margin: 0 auto;
 }
+
+button {
+  padding: 10px 15px;
+  background-color: dodgerblue;
+  color: #ddd;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+  display: block;
+  margin: 20px auto;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
